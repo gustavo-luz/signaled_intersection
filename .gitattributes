@@ -1,1 +1,2 @@
-*.matlab linguist-detectable=true
+*.MATLAB linguist-detectable=true
+*.m linguist-language=MATLAB
